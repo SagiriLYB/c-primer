@@ -1,9 +1,10 @@
 #include <iostream>
-
-using namespace  std;
+#include <vector>
+#include <string>
 
 int main()
 {
-    cout<<"Hello world!";
+    std::vector<std::string>::iterator iter;
+    iter->empty();
     return 0;
 }
